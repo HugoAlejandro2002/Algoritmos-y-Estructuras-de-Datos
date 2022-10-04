@@ -18,7 +18,7 @@ Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
  
 ### BIT
  
-[Click aquí](https://github.com/)
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/BIT)
 
 <h2> Algoritmos </h2>
 
