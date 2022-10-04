@@ -10,9 +10,9 @@ Comienza en la base del árbol. Si el carácter a buscar es 'a', la búsqueda co
 
 ## Codigo
 
-*[TrieArray](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
-*[TrieMap](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
-*[TrieDelete](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
+* [TrieArray](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
+* [TrieMap](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
+* [TrieDelete](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
 
 
 ## Problemas
