@@ -1,9 +1,16 @@
 <h1 align="center"> Trie </h1>
 
-Es una estructura de datos de árbol que permite recuperar información (de ahí el nombre reTRIEval). La información almacenada en el árbol es un conjunto de claves donde la clave es una cadena alfabética de caracteres. Las claves se almacenan en las hojas y los nodos en el interior son la puerta de entrada a la dirección de búsqueda. El árbol está estructurado de modo que cada carácter clave se coloca en un nodo de modo que los caracteres secundarios del nodo que representan diferentes posibilidades de diferentes caracteres puedan seguir al carácter representado por el nodo principal.
+Es una estructura de datos de árbol que permite recuperar información (de ahí el nombre reTRIEval). La información almacenada en el árbol es un conjunto de claves donde la clave es una cadena alfabética de caracteres. .
+
+
+![image](https://user-images.githubusercontent.com/97768733/193912447-cfb8c2d7-f529-4fa1-8cbd-6d62ec8b6136.png)
+
+
+Comienza en la base del árbol. Si el carácter a buscar es 'a', la búsqueda continúa en el subárbol asociado a la letra 'a' que cuelga de la raíz. Lo mismo ocurre con los nodos hoja, digamos con 'b'. Luego se compara la cadena asociada con el nodo hoja y, si coincide con la cadena de búsqueda, la búsqueda tiene éxito; de lo contrario, el elemento no se encuentra en el árbol.
 
 ## Referencias 
 
+
+* Paul Landaeta. (2022). Github : Algoritmica 2. [Trie](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
 * [Trie Keyword Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/).  
-* JavaTPoint Staff. (s. f.).[What is a Trie data structure?](https://www.javatpoint.com/trie-data-structure). Java T Point
-* Paul Landaeta. (2022). Github : Algoritmica 2. [Trie](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie). Github : PaulLandaeta.
+* [Trie](https://www.javatpoint.com/trie-data-structure).
