@@ -9,6 +9,7 @@ Es una estructura de datos de árbol que permite recuperar información (de ahí
 Comienza en la base del árbol. Si el carácter a buscar es 'a', la búsqueda continúa en el subárbol asociado a la letra 'a' que cuelga de la raíz. Lo mismo ocurre con los nodos hoja, digamos con 'b'. Luego se compara la cadena asociada con el nodo hoja y, si coincide con la cadena de búsqueda, la búsqueda tiene éxito; de lo contrario, el elemento no se encuentra en el árbol.
 
 ## Codigo
+
 *[TrieArray](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
 *[TrieMap](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
 *[TrieDelete](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
