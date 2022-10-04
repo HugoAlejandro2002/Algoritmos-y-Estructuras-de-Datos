@@ -11,7 +11,7 @@ Comienza en la base del árbol. Si el carácter a buscar es 'a', la búsqueda co
 ## Codigo
 
 * [TrieArray](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/Trie/trieArray.cpp).
-* [TrieMap](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
+* [TrieMap](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/Trie/trieMap.cpp).
 * [TrieDelete](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
 * [Sufix](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
 * [Prefix](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
