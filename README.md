@@ -3,22 +3,25 @@
 Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
 
 <h2> Estructuras de Datos </h2>
+### Union Find
+ 
+[Click aquí](https://github.com/)
 
 ### Trie
  
-[Definición](https://github.com/)
+[Click aquí](https://github.com/)
  
 ### Segment Tree
  
-[Definición](https://github.com/)
+[Click aquí](https://github.com/)
  
-### Segment Tree
+### BIT
  
-[Definición](https://github.com/)
+[Click aquí](https://github.com/)
 
 <h2> Algoritmos </h2>
 
 ### Backtracking
  
-[Definición](https://github.com/)
+[Click aquí](https://github.com/)
  
