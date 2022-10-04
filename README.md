@@ -3,6 +3,7 @@
 Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
 
 <h2> Estructuras de Datos </h2>
+
 ### Union Find
  
 [Click aquí](https://github.com/)
