@@ -7,7 +7,8 @@ Es una estrategia algorítmica de encontrar todas las soluciones posibles basada
 
 ## Codigo
 
-* [Backtraking](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/BIT/bit.cpp).
+* [Backtracking 8 queen](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp).
+* [Backtracking sudoku](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp)
 
 
 ## Problemas
