@@ -22,6 +22,6 @@ Comienza en la base del árbol. Si el carácter a buscar es 'a', la búsqueda co
 ## Referencias 
 
 
-* Paul Landaeta. (2022). Github : Algoritmica 2. [Trie](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
+* Github : Algoritmica 2. [Trie](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie).
 * [Trie Keyword Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/).  
 * [Trie](https://www.javatpoint.com/trie-data-structure).
