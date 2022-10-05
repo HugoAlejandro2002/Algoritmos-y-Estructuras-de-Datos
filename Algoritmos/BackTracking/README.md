@@ -10,7 +10,7 @@ Es una estrategia algorítmica de encontrar todas las soluciones posibles basada
 
 ## Codigo
 
-* [Backtracking 8 queen](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp).
+* [Backtracking 8 queen](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp). [Aca el problema](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
 * [Backtracking sudoku](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp)
 
 
