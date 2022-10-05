@@ -1,3 +1,4 @@
+/*Este es un ejemplo de implementación de Backtraking*/
 #include <bits/stdc++.h>
 #define input freopen("in.txt", "r", stdin)
 #define output freopen("out.txt", "w", stdout)
