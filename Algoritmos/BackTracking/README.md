@@ -1,16 +1,19 @@
 <h1 align="center"> Backtracking </h1>
 
+El backtracking es un método algorítmico para encontrar soluciones a problemas con soluciones completas, donde el orden de los elementos no es importante y donde existen varias variables, a cada una de las cuales debemos asignarle un valor de acuerdo a las restricciones dadas.
+
+Es una estrategia algorítmica de encontrar todas las soluciones posibles basadas en un conjunto dado de variables iniciales para encontrar el resultado especificado por el problema. Las soluciones erradas son descartadas.
 
 
 ## Codigo
 
-* [BIT](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/BIT/bit.cpp).
+* [Backtraking](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/BIT/bit.cpp).
 
 
 ## Problemas
 
 ## Referencias 
 
-* Github : Algoritmica 2. [BIT](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/BIT).
-* [BIT](https://es.wikipedia.org/wiki/%C3%81rbol_binario_indexado).  
-* [What is a binary indexed tree?](https://www.educative.io/answers/what-is-a-binary-indexed-tree).
+* Github : Algoritmica 2. [Backtracking](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Backtracking).
+* [Backtracking](https://docs.jjpeleato.com/algoritmia/backtracking).  
+* [Backtracking Algorithm](https://www.educative.io/answers/what-is-a-binary-indexed-tree).
