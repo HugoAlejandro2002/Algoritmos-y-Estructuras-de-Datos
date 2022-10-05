@@ -4,6 +4,8 @@ es una estructura de datos que contiene un conjunto de elementos que se dividen 
 
 Contiene dos métodos que son el unión y Find.
 
+![image](https://user-images.githubusercontent.com/97768733/193957694-becee3bb-7139-4ff1-8289-1e8d1ea27041.png)
+
 Find: especifique a qué subconjunto pertenece el elemento.
 
 Union: Combina dos subconjuntos en uno.
