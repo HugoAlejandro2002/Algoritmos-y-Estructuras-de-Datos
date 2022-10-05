@@ -18,6 +18,9 @@ Cada nodo del árbol binario contiene un índice y un valor. El valor es una sum
 
 ## Problemas
 
+* [Turbo](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/BIT/Problems/Turbo)
+* [Supercomputer]()
+
 ## Referencias 
 
 * Github : Algoritmica 2. [BIT](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/BIT).
