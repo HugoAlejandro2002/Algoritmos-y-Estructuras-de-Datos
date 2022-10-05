@@ -1,3 +1,4 @@
+/* Este es un ejemplo de implementacion de Backtraking*/
 #include <bits/stdc++.h> 
 #define input freopen("in.txt", "r", stdin)
 #define output freopen("out.txt", "w", stdout)
@@ -14,7 +15,7 @@ bool isValid(int row, int column) {
     return true;
 }
 
-void solve(int column) { // column es la columna actual 
+void solve(int column) { 
     if (column == 8) {
         for(int i = 0 ; i<8; i++) {
             cout<<"[" << rows[i]+1<< "]";
