@@ -8,13 +8,13 @@ Un árbol de segmentos se usa cuando hay múltiples consultas de rango en un arr
 
 ## Codigo
 
-* [Segment Tree](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/BIT/bit.cpp).
+* [Segment Tree](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/Segment%20Tree).
 
 ## Problemas
 
 ## Referencias 
 
-* Github : Algoritmica 2. [BIT](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/BIT).
-* [BIT](https://es.wikipedia.org/wiki/%C3%81rbol_binario_indexado).  
-* [What is a binary indexed tree?](https://www.educative.io/answers/what-is-a-binary-indexed-tree).
+* Github : Algoritmica 2. [BIT](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/Segment_tree).
+* [Segment Tree](https://es.wikipedia.org/wiki/%C3%81rbol_de_segmentoo).  
+* [Segment Trees Tutorial](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/).
 
