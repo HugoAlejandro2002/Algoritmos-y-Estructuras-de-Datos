@@ -4,6 +4,9 @@ El backtracking es un método algorítmico para encontrar soluciones a problemas
 
 Es una estrategia algorítmica de encontrar todas las soluciones posibles basadas en un conjunto dado de variables iniciales para encontrar el resultado especificado por el problema. Las soluciones erradas son descartadas.
 
+![image](https://user-images.githubusercontent.com/97768733/193965936-dace6a3a-cb54-4999-a18f-b59ea0b54776.png)
+
+
 
 ## Codigo
 
