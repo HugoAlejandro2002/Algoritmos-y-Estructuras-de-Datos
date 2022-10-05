@@ -16,6 +16,8 @@ Union: Combina dos subconjuntos en uno.
 
 ## Problemas
 
+*[Anasis Cobweb](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/Union%20Find/Problems/Anasis%20Cobweb)
+*
 
 ## Referencias 
 * Github : Algoritmica 2. [UnionFind](https://github.com/PaulLandaeta/algoritmica2/blob/master/contenido/Estructura_de_datos/Union_Find/unionFind.cpp).
