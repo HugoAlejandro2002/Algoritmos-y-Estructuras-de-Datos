@@ -20,9 +20,7 @@ Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
  
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/BIT)
 
-<h2> Algoritmos </h2>
+<h2> Backtracking </h2>
 
-### Backtracking
- 
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/BackTracking)
  
