@@ -24,3 +24,12 @@ Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
 
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/BackTracking)
  
+<h2> Dynamic Programing DP </h2>
+
+### Digit
+ 
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/Segment%20Tree)
+ 
+### Subset Sum
+ 
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/BIT)
