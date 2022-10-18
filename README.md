@@ -42,8 +42,8 @@ Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
 
 ### Kruskal
  
-[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/Segment%20Tree)
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Teoria%20de%20Grafos/Kruskal)
  
 ### PRIM
  
-[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/BIT)
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Teoria%20de%20Grafos/Prim)
