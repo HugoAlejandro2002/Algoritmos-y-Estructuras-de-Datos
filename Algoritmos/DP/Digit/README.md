@@ -1,0 +1,1 @@
+Dado un número dado x que consta de n dígitos. La idea básica detrás del dígito DP es representar los dígitos como una matriz de dígitos t[]. Supongamos que tenemos tn, tn-1, tn-2 ... t2, t1 es la representación decimal, donde ti (0 <= n) es el dígito i de la derecha. El dígito más a la izquierda de tn es el dígito más significativo.
