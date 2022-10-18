@@ -6,3 +6,14 @@ Ahora, después de presentar un cierto número de esta manera, generamos número
 
 ![image](https://user-images.githubusercontent.com/97768733/196455492-5d521a4c-643f-4eb8-abbe-ba256a1f7db9.png)
 
+## Codigo
+
+* [Backtracking 8 queen](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp).
+
+## Problemas
+
+## Referencias 
+
+* Github : Algoritmica 2. [Backtracking](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Backtracking).
+* [Backtracking](https://docs.jjpeleato.com/algoritmia/backtracking).  
+* [Backtracking Algorithm](https://www.educative.io/answers/what-is-a-binary-indexed-tree).
