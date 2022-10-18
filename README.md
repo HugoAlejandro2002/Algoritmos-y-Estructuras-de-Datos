@@ -33,3 +33,17 @@ Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
 ### Subset Sum
  
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/BIT)
+
+<h2> Binary Search </h2>
+
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/BackTracking)
+
+<h2> Teoria de Grafos </h2>
+
+### Kruskal
+ 
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/Segment%20Tree)
+ 
+### PRIM
+ 
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/BIT)
