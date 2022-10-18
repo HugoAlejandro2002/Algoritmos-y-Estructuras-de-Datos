@@ -36,7 +36,7 @@ Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
 
 <h2> Binary Search </h2>
 
-[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/BackTracking)
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Binary%20Search)
 
 <h2> Teoria de Grafos </h2>
 
