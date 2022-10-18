@@ -1,4 +1,4 @@
-##Estructuras de Datos
+## Estructuras de Datos
 
 Estas son las estructuras de Datos
 
