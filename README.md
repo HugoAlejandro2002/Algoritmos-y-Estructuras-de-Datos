@@ -28,11 +28,11 @@ Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
 
 ### Digit
  
-[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/Segment%20Tree)
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/DP/Digit)
  
 ### Subset Sum
  
-[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Estructuras%20de%20Datos/BIT)
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/DP/Subset%20Sum)
 
 <h2> Binary Search </h2>
 
