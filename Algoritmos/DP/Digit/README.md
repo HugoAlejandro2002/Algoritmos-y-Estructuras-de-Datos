@@ -4,5 +4,5 @@ Dado un número dado x que consta de n dígitos. La idea básica detrás del dí
 
 Ahora, después de presentar un cierto número de esta manera, generamos números más pequeños que el número dado y al mismo tiempo calculamos con DP si el número cumple o no con la propiedad dada. Comenzamos generando números enteros con número de dígitos de 1 hasta n. Los enteros con menos dígitos que n se pueden analizar estableciendo los dígitos más a la izquierda en cero.
 
-![image](https://user-images.githubusercontent.com/97768733/196454923-b6846155-a147-46d9-a1cd-9593b51d9ee1.png)
+![image](https://user-images.githubusercontent.com/97768733/196455492-5d521a4c-643f-4eb8-abbe-ba256a1f7db9.png)
 
