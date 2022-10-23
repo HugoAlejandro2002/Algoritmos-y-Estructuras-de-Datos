@@ -10,12 +10,12 @@ Para encontrar el LIS para un arreglo dado, necesitamos devolver max(L(i)), dond
 
 ## Codigo
 
-* [LIS](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/DP/Rod_Cutting/rod_cutting.cpp).
+* [LIS](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/DP/LIS/lis.cpp).
 
 ## Problemas
 
 
 ## Referencias 
-* [Cutting Stock](https://en.wikipedia.org/wiki/Cutting_stock_problem#Illustration_of_one-dimensional_cutting-stock_problem).
-* [Rod Cutting DP](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/).
+* [LIS](https://es.wikipedia.org/wiki/Problema_de_la_subsecuencia_m%C3%A1s_larga).
+* [LIS DP3](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/#:~:text=The%20Longest%20Increasing%20Subsequence%20(LIS)%20problem%20is%20to%20find%20the,50%2C%2060%2C%2080%7D.).
 
