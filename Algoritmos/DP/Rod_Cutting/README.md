@@ -9,7 +9,7 @@ Una solución lenta a este problema es generar todas las configuraciones de dife
 
 ## Codigo
 
-* [UnionFind](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/Union%20Find/unionFind.cpp).
+* [Rod Cutting](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/DP/Rod_Cutting/rod_cutting.cpp).
 
 ## Problemas
 
