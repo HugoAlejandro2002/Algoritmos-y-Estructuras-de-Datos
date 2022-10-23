@@ -17,7 +17,7 @@ La idea es procesar todos los caracteres uno tras otro, comenzando desde la izqu
 ## Codigo
 
 * [Edit Distance](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/DP/Edit_Distance/edit_distance.cpp).
-* [Edit Distance](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/DP/Edit_Distance/edit_distanceBU.cpp).
+* [Edit Distance BU](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/DP/Edit_Distance/edit_distanceBU.cpp).
 
 ## Problemas
 
