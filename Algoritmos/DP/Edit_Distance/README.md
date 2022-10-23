@@ -22,6 +22,6 @@ La idea es procesar todos los caracteres uno tras otro, comenzando desde la izqu
 ## Problemas
 
 ## Referencias 
-* Github : Algoritmica 2. [Edit Distance]().
-* [Edit Distance]().
-* [Edit Distance DP]().
+* Github : Algoritmica 2. [Edit Distance](https://github.com/PaulLandaeta/algoritmica2/blob/master/contenido/Programacion%20Dinamica/edit_distance/edit_distance.cpp).
+* [Edit Distance](•	https://en.wikipedia.org/wiki/Edit_distance).
+* [Edit Distance DP](https://www.geeksforgeeks.org/edit-distance-dp-5/).
