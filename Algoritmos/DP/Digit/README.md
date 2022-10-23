@@ -14,6 +14,6 @@ Ahora, después de presentar un cierto número de esta manera, generamos número
 
 ## Referencias 
 
-* Github : Algoritmica 2. [Backtracking](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Backtracking).
-* [Backtracking](https://docs.jjpeleato.com/algoritmia/backtracking).  
-* [Backtracking Algorithm](https://www.educative.io/answers/what-is-a-binary-indexed-tree).
+* Github : Algoritmica 2. [Digit DP](https://github.com/PaulLandaeta/algoritmica2/blob/master/contenido/Programacion%20Dinamica/Digit/digit_dp_mod_9.cpp).
+* [Digit DP](https://docs.jjpeleato.com/algoritmia/backtracking).  
+* [Digit DP 2](https://www.educative.io/answers/what-is-a-binary-indexed-tree).
