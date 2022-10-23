@@ -4,7 +4,7 @@ El algoritmo de Kruskal es un algoritmo basado en la teoría de gráficos para e
 
 Primero, ordene los bordes del gráfico por su peso de menor a mayor. Usando una técnica codiciosa, Kruskal intentará conectar cada borde hasta formar un bucle, lo que se hará con Union-Find. Como ya hemos ordenado las aristas por peso, comenzaremos con las aristas menos ponderadas, si los vértices que contienen la arista especificada no están en la misma composición, los unimos en un solo componente con Union(x,y) para verificar si están en la misma componente consistente usamos la función SameComponent(x,y) así evitamos la generación de ciclos y la arista que une dos vértices es siempre la más pequeña posible.
 
-![image](https://user-images.githubusercontent.com/97768733/197424187-dbfc5809-04c7-457e-9481-ffb311b64d82.png)
+![image](https://user-images.githubusercontent.com/97768733/197424222-0b41b21a-0962-4444-8e5d-d16913e36590.png)
 
 
 ## Codigo
