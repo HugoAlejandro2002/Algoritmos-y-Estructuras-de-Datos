@@ -2,7 +2,7 @@
 
 ## Codigo
 
-* [Kruskal](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/Union%20Find/unionFind.cpp).
+* [Kruskal](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Kruskal/kruscal.cpp).
 
 ## Problemas
 
