@@ -15,6 +15,6 @@ Una solución lenta a este problema es generar todas las configuraciones de dife
 
 
 ## Referencias 
-* Github : Algoritmica 2. [Rod Cutting]((https://github.com/PaulLandaeta/algoritmica2/blob/master/contenido/Programacion%20Dinamica/rod_cutting/rod_cutting.cpp).
+* Github : Algoritmica 2. [Rod Cutting](https://github.com/PaulLandaeta/algoritmica2/blob/master/contenido/Programacion%20Dinamica/rod_cutting/rod_cutting.cpp).
 * [Cutting Stock](https://en.wikipedia.org/wiki/Cutting_stock_problem#Illustration_of_one-dimensional_cutting-stock_problem).
 * [Rod Cutting DP](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/).
