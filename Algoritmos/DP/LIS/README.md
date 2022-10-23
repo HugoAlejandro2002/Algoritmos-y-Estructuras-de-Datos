@@ -1,9 +1,9 @@
 <h1 align="center"> Longests Increasing Subsequence </h1>
 
-Dada una barra de longitud n y una tabla con los precios de todas las piezas menores que n, determine la ganancia máxima que se puede obtener cortando una barra y vendiendo sus piezas.
-El problema del corte de barras es una versión unidimensional del cutting stock problem. Este es un problema NP-completo.
+El problema de la subsecuencia ascendente más larga (LIS) es encontrar la longitud de la subsecuencia más larga de una cadena dada de tal manera que todos los elementos de la subsecuencia se clasifiquen en orden ascendente. Por ejemplo, la longitud del LIS para {10, 22, 9, 33, 21, 50, 41, 60, 80} es 6 y el LIS es {10, 22, 33, 50, 60, 80}.
 
-Una solución lenta a este problema es generar todas las configuraciones de diferentes piezas y encontrar la configuración de mayor precio. Pero esta solución es exponencial. Si analizamos, veremos que hay varios subproblemas que se resuelven una y otra vez, lo que implica que podemos usar DP.
+Para encontrar el LIS para un arreglo dado, necesitamos devolver max(L(i)), donde 0 < i < n. Formalmente, la longitud de la subsecuencia incremental más larga que termina con el índice i es 1 mayor que la longitud máxima de todas las subsecuencias incrementales más largas que terminan con el índice do i, donde arr[j] (j lo tanto, vemos que el problema LIS cumple con la propiedad del marco óptimo porque el problema principal se puede resolver resolviendo subtareas.
+
 
 ![image](https://user-images.githubusercontent.com/97768733/197421637-a0c18b5e-41f4-48b4-a415-eb0de8270f15.png)
 
