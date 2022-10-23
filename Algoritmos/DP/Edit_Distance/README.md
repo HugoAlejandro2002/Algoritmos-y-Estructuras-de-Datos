@@ -22,6 +22,6 @@ La idea es procesar todos los caracteres uno tras otro, comenzando desde la izqu
 ## Problemas
 
 ## Referencias 
-* Github : Algoritmica 2. [UnionFind]().
+* Github : Algoritmica 2. [Edit Distance]().
 * [Edit Distance]().
 * [Edit Distance DP]().
