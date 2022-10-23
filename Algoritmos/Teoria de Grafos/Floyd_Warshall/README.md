@@ -1,0 +1,1 @@
+El algoritmo de Floyd-Warshall se usa para encontrar las rutas más cortas en gráficos ponderados con bordes positivos o negativos. Una ejecución del algoritmo encontrará la longitud (suma de pesos) de los caminos más cortos entre todos los pares de vértices. Aunque no devuelve detalles de las rutas en sí, es posible reconstruir rutas con modificaciones simples al algoritmo.
