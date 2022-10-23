@@ -1,6 +1,6 @@
 <h1 align="center"> PRIM </h1>
 
-El algoritmo de Prim es un algoritmo basado en la teoría de gráficos para encontrar un árbol de expansión mínimo en un gráfico no dirigido vinculado con bordes etiquetados.
+El algoritmo de Prim es un algoritmo basado en la teoría de grafo para encontrar un árbol de expansión mínimo en un grafo no dirigido vinculado con bordes etiquetados.
 En otras palabras, el algoritmo encuentra un subconjunto de las aristas que forman el árbol con todos sus vértices, con la suma ponderada de todas las aristas del árbol lo más baja posible. Si el gráfico es discreto, el algoritmo encontrará el árbol de expansión mínimo para uno de los componentes combinados que forman el gráfico desconectado.
 
 ## Codigo
