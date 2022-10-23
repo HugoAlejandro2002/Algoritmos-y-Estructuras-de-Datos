@@ -16,6 +16,6 @@ Comienza con un árbol de expansión vacío. La idea es mantener dos conjuntos d
 
 
 ## Referencias 
-* Github : Algoritmica 2. [PRIM](https://github.com/PaulLandaeta/algoritmica2/blob/master/contenido/Estructura_de_datos/Union_Find/unionFind.cpp).
-* [PRIM](https://es.m.wikipedia.org/wiki/Estructura_de_datos_para_conjuntos_disjuntos).
-* [PRIM G](https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/).
+
+* [PRIM]((https://en.wikipedia.org/wiki/Prim%27s_algorithm).
+* [PRIM Greedy](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/).
