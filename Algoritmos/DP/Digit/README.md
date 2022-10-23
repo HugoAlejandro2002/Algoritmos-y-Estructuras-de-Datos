@@ -8,7 +8,7 @@ Ahora, después de presentar un cierto número de esta manera, generamos número
 
 ## Codigo
 
-* [Backtracking 8 queen](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp).
+* [Digit DP](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/DP/Digit/digitDP.cpp).
 
 ## Problemas
 
