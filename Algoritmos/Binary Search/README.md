@@ -6,6 +6,7 @@ Compare el valor con el elemento en el medio de la matriz, si no son iguales, la
 
 La idea detrás de la búsqueda binaria es aprovechar el conocimiento de que el array está ordenado y reducir la complejidad del tiempo a O (Log n).
 
+![image](https://user-images.githubusercontent.com/97768733/197426662-56eb1fdc-70eb-44c8-bd85-7cada87bc0d5.png)
 
 ## Codigo
 
