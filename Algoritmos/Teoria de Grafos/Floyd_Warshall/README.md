@@ -13,7 +13,7 @@ El algoritmo de Floyd-Warshall se usa para encontrar las rutas más cortas en gr
 
 ## Referencias 
 * Github : Algoritmica 2. [Floyd Warshall](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Teoria%20de%20Grafos/Floyd_Warshall).
-* [Unión Find](https://es.m.wikipedia.org/wiki/Estructura_de_datos_para_conjuntos_disjuntos).
-* [DJoinSet-UnionFind](https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/).
+* [Floyd Warshall](https://es.wikipedia.org/wiki/Algoritmo_de_Floyd-Warshall).
+* [Floyd Warshall Geeks](•	https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/).
 
 
