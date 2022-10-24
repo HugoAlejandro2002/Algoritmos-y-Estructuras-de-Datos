@@ -34,6 +34,15 @@ Este es un repositorio donde se abordan las estructuras de datos y algoritmos.
  
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/DP/Subset%20Sum)
 
+### Edit Distance 
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/DP/Edit_Distance)
+
+### Rod Cutting
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/DP/Rod_Cutting)
+
+### LIS
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/DP/LIS)
+
 <h2> Binary Search </h2>
 
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Binary%20Search)
