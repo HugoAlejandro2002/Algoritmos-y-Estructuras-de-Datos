@@ -4,9 +4,12 @@ En informática y matemáticas, es un algoritmo de búsqueda que encuentra la po
 
 Compare el valor con el elemento en el medio de la matriz, si no son iguales, la mitad que no puede eliminar el valor se descartará y continuará buscando con la otra mitad hasta encontrar el valor.
 
+La idea detrás de la búsqueda binaria es aprovechar el conocimiento de que el array está ordenado y reducir la complejidad del tiempo a O (Log n).
+
+
 ## Codigo
 
-* [UnionFind](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Estructuras%20de%20Datos/Union%20Find/unionFind.cpp).
+* [Binary Search](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Binary%20Search/binarysearch.cpp).
 
 ## Problemas
 
