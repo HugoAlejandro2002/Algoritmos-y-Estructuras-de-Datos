@@ -13,6 +13,6 @@ Compare el valor con el elemento en el medio de la matriz, si no son iguales, la
 ## Referencias 
 * Github : Algoritmica 2. [Binary Search](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Busqueda_Binaria).
 * [Binary Search](https://es.wikipedia.org/wiki/B%C3%BAsqueda_binaria).
-* [Binary Search ](https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/).
+* [Binary Search Geek](https://www.geeksforgeeks.org/binary-search/).
 
 
