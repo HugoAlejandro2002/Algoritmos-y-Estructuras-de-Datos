@@ -54,3 +54,5 @@ Aqui van los algoritmos:
 ### Dinic
 
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Teoria%20de%20Grafos/Dinic)
+
+<h2> Geometría </h2>
