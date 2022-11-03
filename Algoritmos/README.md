@@ -43,6 +43,10 @@ Aqui van los algoritmos:
 
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Teoria%20de%20Grafos/Floyd_Warshall)
 
-### Maximo Flujo
+### Ford Fulkerson
+
+[Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Teoria%20de%20Grafos/Máximo_Flujo)
+
+### Edmonds Karp
 
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Teoria%20de%20Grafos/Máximo_Flujo)
