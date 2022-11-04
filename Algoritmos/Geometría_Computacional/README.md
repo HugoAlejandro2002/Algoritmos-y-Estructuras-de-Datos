@@ -4,7 +4,9 @@ La geometría computacional es una rama de la informática que se especializa en
 
 La geometría es una parte muy importante de la mayoría de los programas gráficos, especialmente los juegos de computadora, y los problemas de geometría llegaron para quedarse.
 
-<h2> Vector </h2>
+## Vector
+
+Los vectores forman la base de muchos métodos para resolver problemas de geometría. Formalmente, un vector se define en términos de dirección y magnitud. Para la geometría bidimensional, un vector se puede representar como un par de números x e y que definen tanto la dirección como la magnitud. Por ejemplo, el segmento (1,3) a (5,1) se puede representar mediante un vector (4, -2). Sin embargo, es importante comprender que, en este caso, el vector solo determina la dirección y el tamaño del segmento, no la posición inicial o final del vector.
 
 ## Codigo
 
