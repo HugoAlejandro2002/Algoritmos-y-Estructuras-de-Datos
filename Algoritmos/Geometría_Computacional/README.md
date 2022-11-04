@@ -34,8 +34,17 @@ Dados tres puntos A, B y C. El área formada se define como el producto cruz de 
 
 ![image](https://user-images.githubusercontent.com/97768733/200011029-90f86521-6210-4a96-a562-2a98c5c8f457.png)
 
+## Rectas
 
-![image](https://user-images.githubusercontent.com/97768733/200006525-39adae1b-98d8-49df-adbe-b951c41de7fe.png)
+Una recta se define matemáticamente por un vector y un punto tal que a través de los primeros infinitos puntos se pueden formar puntos con la misma dirección y sentido (o viceversa). Los segmentos de línea están formados por segmentos que definen intervalos, por lo que los puntos no son infinitos y se construyen como segmentos de línea, con estricta adherencia a los intervalos.
+
+![image](https://user-images.githubusercontent.com/97768733/200012778-db02892f-fa7e-4420-9331-fe87cb789f3a.png)
+
+## Punto en Segmento
+
+Sea P el punto a determinar su existencia en un segmento formado por A y B. El área de ABP debe ser 0, y las coordenadas de P deben estar en el rango de AB para que el punto P esté dentro del segmento.
+
+![image](https://user-images.githubusercontent.com/97768733/200013970-f0d1f68e-f071-4baf-9218-ffe7a76edb6a.png)
 
 
 ## Codigo
