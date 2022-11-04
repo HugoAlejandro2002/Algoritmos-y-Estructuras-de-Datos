@@ -13,12 +13,12 @@ origen y destino.
 
 ## Codigo
 
-* [Dinic](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Dinic/dinic.cpp)
+* [Ford Fulkerson](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Ford_Fulkerson/ford_fulkerson.cpp)
 
 ## Problemas
 
 ## Referencias 
 
-* [Dinic](https://es.wikipedia.org/wiki/Algoritmo_de_Dinic).  
-* Github : Algoritmica 2. [Dinic](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Teoria%20de%20Grafos/Dinic).
-* [Understanding Dinic’s Algorithm](https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227).
+* [Ford Fulkerson](https://es.wikipedia.org/wiki/Algoritmo_de_Dinic).  
+* [Ford-Fulkerson Algorithm for Maximum Flow Problem](https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/).
+* [Flujo Máximo en Redes](https://www.estadistica.net/IO/Practica-Ford-Fulkerson.pdf).
