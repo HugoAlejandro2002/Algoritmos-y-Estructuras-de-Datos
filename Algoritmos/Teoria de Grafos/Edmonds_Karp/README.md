@@ -1,6 +1,7 @@
 <h1 align="center"> Edmonds Karp </h1>
 El algoritmo de Edmonds-Karp es una implementación del método Ford-Fulkerson para calcular el flujo máximo en una red de flujo.
 
+
 Este algoritmo es similar al algoritmo de Ford-Fulkerson excepto que se especifica el orden de búsqueda de las rutas de ascenso. La ruta encontrada debe ser la ruta más corta con ancho de banda disponible. Esto se puede encontrar con bfs ya que permitimos que los bordes sean una unidad de longitud. Otra propiedad de este algoritmo es que la longitud de la subida más corta aumenta monótonamente.
 
 ## Codigo
