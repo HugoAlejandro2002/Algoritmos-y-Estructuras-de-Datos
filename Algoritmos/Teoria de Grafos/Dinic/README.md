@@ -1,9 +1,6 @@
 <h1 align="center"> Dinic </h1>
 
-El backtracking es un método algorítmico para encontrar soluciones a problemas con soluciones completas, donde el orden de los elementos no es importante y donde existen varias variables, a cada una de las cuales debemos asignarle un valor de acuerdo a las restricciones dadas.
-
-Es una estrategia algorítmica de encontrar todas las soluciones posibles basadas en un conjunto dado de variables iniciales para encontrar el resultado especificado por el problema. Las soluciones erradas son descartadas.
-
+El algoritmo Dinik es un algoritmo polinomial para calcular el flujo máximo en una red de flujo, desarrollado en 1970 por el informático israelí nacido en la Unión Soviética Yefim Dinitz.
 
 
 
