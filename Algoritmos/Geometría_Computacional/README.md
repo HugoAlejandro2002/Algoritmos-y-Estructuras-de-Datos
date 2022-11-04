@@ -4,6 +4,8 @@ La geometría computacional es una rama de la informática que se especializa en
 
 La geometría es una parte muy importante de la mayoría de los programas gráficos, especialmente los juegos de computadora, y los problemas de geometría llegaron para quedarse.
 
+<h2> Vector </h2>
+
 ## Codigo
 
 * [Dinic](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Dinic/dinic.cpp)
