@@ -6,9 +6,7 @@ El algoritmo Dinik es un algoritmo polinomial para calcular el flujo máximo en 
 
 ## Codigo
 
-* [Backtracking 8 queen](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp). [Aca el problema](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
-* [Backtracking sudoku](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/BackTracking/8queenproblem.cpp)
-
+* [Dinic](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Dinic/dinic.cpp)
 
 ## Problemas
 
