@@ -11,6 +11,8 @@ origen y destino.
 * El flujo a través de un arco es menor o igual que la capacidad.
 * El flujo que entra en un nodo es igual al que sale de él.
 
+![image](https://user-images.githubusercontent.com/97768733/199870845-89cbb1b2-1b44-4e4c-b680-2aa1bc5dab76.png)
+
 ## Codigo
 
 * [Ford Fulkerson](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Ford_Fulkerson/ford_fulkerson.cpp)
