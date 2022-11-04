@@ -16,6 +16,12 @@ Hay muchas matemáticas que se pueden hacer con vectores. El más simple de esto
 
 ![image](https://user-images.githubusercontent.com/97768733/199876516-12670468-c82f-43df-8cf2-bac9a68dc05e.png)
 
+## Producto Escalar o Producto Punto
+
+El producto punto de dos vectores es simplemente la suma de los productos de los elementos correspondientes. Por ejemplo, el producto escalar de (x1, y1) y (x2, y2) es x1*x2 + y1*y2. Tenga en cuenta que esto no es un vector, sino que es simplemente un número único (llamado escalar). La razón por la que esto es útil es que el producto escalar, A ⋅ B = |A||B|Cos(θ), donde θ es el ángulo entre A y B. |A| se llama la norma del vector, y en un problema de geometría 2-D es simplemente la longitud del vector, sqrt(x2+y2). Por lo tanto, podemos calcular Cos(θ) = (A ⋅ B)/(|A||B|). Usando la función acos, podemos encontrar θ. Es útil recordar que Cos(90) = 0 y Cos(0) = 1, ya que esto te dice que un producto escalar de 0 indica dos líneas perpendiculares, y que el producto escalar es mayor cuando las líneas son paralelas. Una nota final sobre los productos escalares es que no se limitan a la geometría 2D. Podemos tomar productos escalares de vectores con cualquier número de elementos, y la igualdad anterior sigue siendo válida.
+
+![image](https://user-images.githubusercontent.com/97768733/199876992-2de86fdd-c05c-459f-859e-6c23cd4ba793.png)
+
 
 ## Codigo
 
