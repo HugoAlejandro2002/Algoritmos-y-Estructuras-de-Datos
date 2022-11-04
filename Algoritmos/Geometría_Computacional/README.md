@@ -8,6 +8,9 @@ La geometría es una parte muy importante de la mayoría de los programas gráfi
 
 Los vectores forman la base de muchos métodos para resolver problemas de geometría. Formalmente, un vector se define en términos de dirección y magnitud. Para la geometría bidimensional, un vector se puede representar como un par de números x e y que definen tanto la dirección como la magnitud. Por ejemplo, el segmento (1,3) a (5,1) se puede representar mediante un vector (4, -2). Sin embargo, es importante comprender que, en este caso, el vector solo determina la dirección y el tamaño del segmento, no la posición inicial o final del vector.
 
+![image](https://user-images.githubusercontent.com/97768733/199876145-2a46eae6-7dd0-41e5-a7d6-6e625d1ada25.png)
+
+
 ## Codigo
 
 * [Dinic](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Dinic/dinic.cpp)
