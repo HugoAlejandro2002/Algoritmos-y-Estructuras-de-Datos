@@ -28,6 +28,15 @@ El producto cruzado de dos vectores 2D es x1 * y2 - y1 * x2 Técnicamente, el pr
 
 ![image](https://user-images.githubusercontent.com/97768733/200006525-39adae1b-98d8-49df-adbe-b951c41de7fe.png)
 
+## Área de un Paralelogramo o un Triángulo:
+
+Dados tres puntos A, B y C. El área formada se define como el producto cruz de dos vectores resultantes de dichos puntos. Por ejemplo podemos tener al punto A fijado y sacar dos vectores con B y C. Y el producto cruz de ambos será el área del paralelogramo. Y si queremos el area del triángulo, solo dividimos entre 2.
+
+![image](https://user-images.githubusercontent.com/97768733/200011029-90f86521-6210-4a96-a562-2a98c5c8f457.png)
+
+
+![image](https://user-images.githubusercontent.com/97768733/200006525-39adae1b-98d8-49df-adbe-b951c41de7fe.png)
+
 
 ## Codigo
 
