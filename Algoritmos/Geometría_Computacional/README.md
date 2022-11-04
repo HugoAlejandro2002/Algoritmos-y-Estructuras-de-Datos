@@ -31,7 +31,7 @@ El producto cruzado de dos vectores 2D es x1 * y2 - y1 * x2 Técnicamente, el pr
 
 ## Codigo
 
-* [Dinic](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Dinic/dinic.cpp)
+* [Geometria Computacional](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/blob/main/Algoritmos/Teoria%20de%20Grafos/Dinic/dinic.cpp)
 
 ## Problemas
 
