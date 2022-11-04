@@ -22,6 +22,12 @@ El producto punto de dos vectores es simplemente la suma de los productos de los
 
 ![image](https://user-images.githubusercontent.com/97768733/199876992-2de86fdd-c05c-459f-859e-6c23cd4ba793.png)
 
+## Producto Vectorial o Producto Cruz
+
+El producto cruzado de dos vectores 2D es x1 * y2 - y1 * x2 Técnicamente, el producto cruzado es en realidad un vector, de la misma magnitud que el anterior, y que va en la dirección z. Como por ahora solo estamos trabajando con geometría 2D, ignoraremos este hecho y lo usaremos como una cantidad escalar. Como el producto de puntos, A x B = | un || B | Sin (θ). Sin embargo, en este caso, θ tiene un significado ligeramente diferente: | θ | ángulo entre dos vectores, pero θ puede ser positivo o negativo según la regla de la mano derecha. En geometría 2D, esto significa que si A está a menos de 180 grados en el sentido de las agujas del reloj desde B, el valor es positivo. Otro dato útil sobre el producto vectorial es el valor absoluto | un || B | Sin (θ) es igual al área de un paralelogramo con dos lados formados por A y B. Además, el triángulo formado por A, B y la línea roja en el diagrama tiene la mitad del área de un paralelogramo, por lo que también podemos calcular su área a partir del producto de diagonales.
+
+![image](https://user-images.githubusercontent.com/97768733/200006525-39adae1b-98d8-49df-adbe-b951c41de7fe.png)
+
 
 ## Codigo
 
