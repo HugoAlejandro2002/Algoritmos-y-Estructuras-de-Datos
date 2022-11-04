@@ -44,8 +44,10 @@ Una recta se define matemáticamente por un vector y un punto tal que a través 
 
 Sea P el punto a determinar su existencia en un segmento formado por A y B. El área de ABP debe ser 0, y las coordenadas de P deben estar en el rango de AB para que el punto P esté dentro del segmento.
 
-![image](https://user-images.githubusercontent.com/97768733/200013970-f0d1f68e-f071-4baf-9218-ffe7a76edb6a.png)
 
+Dados 2 segmentos formados por los puntos A y B, y el otro por C y D. Estos segmentos se van a intersectar, sí y solo sí, Los puntos se encuentras en los lados opuestos o algun punto de un segemento se encuentra dentro del otro segmento. Los puntos se encontrarán en lados opuestos si tienen producto cruz de signos distintos.
+
+![image](https://user-images.githubusercontent.com/97768733/200017196-4935ad6e-364a-40a6-be6b-32d4b26df2a8.png)
 
 ## Codigo
 
