@@ -10,6 +10,10 @@ Los vectores forman la base de muchos métodos para resolver problemas de geomet
 
 ![image](https://user-images.githubusercontent.com/97768733/199876145-2a46eae6-7dd0-41e5-a7d6-6e625d1ada25.png)
 
+## Suma de Vectores
+
+Hay muchas matemáticas que se pueden hacer con vectores. El más simple de estos es la suma: puede sumar dos vectores y el resultado es un nuevo vector. Si tiene dos vectores (x1, y1) y (x2, y2), entonces la suma de los dos vectores es solo (x1 x2, y1 y2). La siguiente imagen muestra la suma de cuatro vectores. Recuerda que los agregas en el orden que normalmente lo harías, no importa. En estas lecciones, usaremos los signos más y menos para representar sumas y restas de vectores, cada una de las cuales es simplemente una suma o resta de los elementos de un vector.
+
 
 ## Codigo
 
