@@ -55,6 +55,6 @@ Aqui van los algoritmos:
 
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Teoria%20de%20Grafos/Dinic)
 
-<h2> Geometría </h2>
+<h2> Geometría Computacional</h2>
 
 [Click aquí](https://github.com/HugoAlejandro2002/Algoritmos-y-Estructuras-de-Datos/tree/main/Algoritmos/Geometr%C3%ADa_Computacional)
