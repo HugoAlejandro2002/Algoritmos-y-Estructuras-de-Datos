@@ -87,6 +87,8 @@ Para resolver este problema podemos usar el algoritmo de Convex Hull Monotone Ch
 
 ## Referencias 
 
-* [Dinic](https://es.wikipedia.org/wiki/Algoritmo_de_Dinic).  
-* Github : Algoritmica 2. [Dinic](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Teoria%20de%20Grafos/Dinic).
-* [Understanding Dinic’s Algorithm](https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227).
+* [GEOMETRY CONCEPTS PART 1: BASIC CONCEPTS](https://www.topcoder.com/thrive/articles/Geometry%20Concepts%20part%201:%20Basic%20Concepts).  
+* [GEOMETRY CONCEPTS PART 2: LINE INTERSECTION AND ITS APPLICATIONS](https://www.topcoder.com/thrive/articles/Geometry%20Concepts%20part%202:%20%20Line%20Intersection%20and%20its%20Applications).
+* Github : Algoritmica 2. [Geometria](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Geometria).
+* [Geometría Computacional](https://es.wikipedia.org/wiki/Geometr%C3%ADa_computacional)
+
