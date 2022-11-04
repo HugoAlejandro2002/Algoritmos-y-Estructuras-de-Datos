@@ -1,6 +1,6 @@
 <h1 align="center"> Dinic </h1>
 
-El algoritmo Dinik es un algoritmo polinomial para calcular el flujo máximo en una red de flujo, desarrollado en 1970 por el informático israelí nacido en la Unión Soviética Yefim Dinitz.
+El algoritmo Dinik es un algoritmo polinomial para calcular el flujo máximo en una red de flujo, desarrollado en 1970 por el informático israelí nacido en la Unión Soviética Yefim Dinitz. Este algoritmo se basa en el algoritmo de Edmonds-Karp, que se ejecuta a lo largo del tiempo y utiliza caminos ascendentes más cortos.
 
 
 
