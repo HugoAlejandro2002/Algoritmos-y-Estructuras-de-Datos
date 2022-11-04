@@ -16,6 +16,6 @@ Este algoritmo es similar al algoritmo de Ford-Fulkerson excepto que se especifi
 
 ## Referencias 
 
-* [Dinic](https://es.wikipedia.org/wiki/Algoritmo_de_Dinic).  
+* [Edmonds Karp](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm).  
 * Github : Algoritmica 2. [Dinic](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Teoria%20de%20Grafos/Dinic).
 * [Understanding Dinic’s Algorithm](https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227).
