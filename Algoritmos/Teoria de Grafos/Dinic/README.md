@@ -4,8 +4,7 @@ El algoritmo Dinik es un algoritmo polinomial para calcular el flujo máximo en 
 
 El algoritmo de Dinik se utiliza para resolver problemas de máximo flujo. Los problemas de corriente máxima se pueden describir como tratar de encontrar un "flujo" alcanzable a través de la red con una fuente y una salida que también sea máxima. Estos problemas se conocen como problemas de optimización en el mundo de la informática. Antes de sumergirnos en el algoritmo de Dinick, tengamos una mejor intuición sobre el problema al que nos enfrentamos y cómo funciona el algoritmo para resolverlo.
 
-![image](https://user-images.githubusercontent.com/97768733/199863070-5d9233df-f8d3-40be-8beb-716530df55d9.png)
-
+![image](https://user-images.githubusercontent.com/97768733/199863225-ea8218b8-034a-4a91-983d-64e8d861de47.png)
 
 ## Codigo
 
